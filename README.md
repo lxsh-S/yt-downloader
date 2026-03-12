@@ -28,9 +28,9 @@ python main.py
 
 
 - [x] Implement a base
-- [] Choose the name of the output file
-- [] Choose the output resolution
-- [] Choose output format
+- [ ] Choose the name of the output file
+- [ ] Choose the output resolution
+- [ ] Choose output format
 
 
 **It's just a hobby project for myself**
