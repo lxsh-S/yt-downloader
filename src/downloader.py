@@ -32,9 +32,4 @@ def download_video(url, output_path="Downloads"):
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         
-        
-        
-if __name__ == "__main__":
-    url = input("Enter the video URL: ")
-    name = input("Enter the desired filename (without extension): ")
-    download_video(url, name)
+     
