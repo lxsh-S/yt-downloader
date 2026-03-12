@@ -1,5 +1,6 @@
 import os
 import yt_dlp 
+from main import name
 
 
 def download_video(url, output_path="Downloads"):
